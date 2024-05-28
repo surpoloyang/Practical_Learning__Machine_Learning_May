@@ -182,6 +182,7 @@
 - **竞赛目的**：基于位置数据对海上目标进行智能识别和作业行为分析。
 - **竞赛任务**: 分析渔船北斗设备位置数据，判断渔船的生产作业行为（拖网作业、围网作业、流刺网作业）。
 - **竞赛baseline**：[各开源方案](https://github.com/datawhalechina/team-learning-data-mining/tree/master/wisdomOcean)
+- **复现**：[黄海广教授团队baseline复现](https://github.com/surpoloyang/Practical_Learning__Machine_Learning_May/tree/main/Past-Competition-learning/Smart-Ocean-Practice-Competition)
 
 ## 竞赛数据
 
