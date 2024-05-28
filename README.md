@@ -17,6 +17,7 @@
 - **竞赛目的**：解决AliExpress在不同国家市场推广时遇到的用户行为差异问题，优化推荐算法。
 - **竞赛链接**：[天池大赛-阿里云天池](https://tianchi.aliyun.com/competition/entrance/231718/information)
 - **竞赛baseline**：[冠军方案分享](https://github.com/RainFung/Tianchi-AntaiCup-International-E-commerce-Artificial-Intelligence-Challenge/tree/master#%E8%B5%9B%E9%A2%98%E6%95%B0%E6%8D%AE)
+- **复现**：[复现代码](https://github.com/surpoloyang/Practical_Learning__Machine_Learning_May/tree/main/Past-Competition-learning/Cross-border-E-commerce-Algorithm-Competition/code)
 
 ## 竞赛背景
 
